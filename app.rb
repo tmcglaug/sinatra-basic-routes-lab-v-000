@@ -4,13 +4,13 @@ class App < Sinatra::Base
 
 get '/name' do
 
-"My  name is Tom McGlaughlin"
+"My name is Tom McGlaughlin."
 
 end
 
 get '/hometown' do
 
-"My  hometown is Philadelphia."
+"My hometown is Philadelphia."
 
 
 end
